@@ -1,0 +1,5 @@
+oCars.options[oCars.selectedIndex].text
+
+
+
+http://cssglobe.com/lab/style_select/images/bg_select.gif
